@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/MM002.unity
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> 5172953a2d51b0dd11ce7e18f48750b030bbd3a8
   isLoaded: 1
   isActive: 1
   isSubScene: 0
