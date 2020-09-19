@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 sceneSetups:
 - path: Assets/fsdfs.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
+=======
+sceneSetups: []
+>>>>>>> 9a4ba0d1a95960ed442acc438a728f6443101708
