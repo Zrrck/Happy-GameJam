@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/SampleScene.unity
-=======
-- path: Assets/MM001.unity
->>>>>>> newbranch
+- path: Assets/fsdfs.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
